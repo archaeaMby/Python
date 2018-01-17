@@ -1,5 +1,6 @@
 # Python
 初学Python1.2事
+
 print('hello world')
 #this is my second python programme, mark it 
 import random
